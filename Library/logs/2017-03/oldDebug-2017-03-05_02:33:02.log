@@ -1,0 +1,17 @@
+2017-03-05 02:15:33,784 DEBUG(InitialiseUndertowServer.java:24): Change log level setting at : /home/suhaas/Desktop/NICEWORKS/ProjectSignature/log4j2.xml
+2017-03-05 02:15:33,812 DEBUG(ResponseCodeHandler.java:32): Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2017-03-05 02:15:33,926 INFO (Xnio.java:99): XNIO version 3.3.6.Final
+2017-03-05 02:15:33,948 INFO (NioXnio.java:55): XNIO NIO Implementation Version 3.3.6.Final
+2017-03-05 02:15:34,026 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.EPollSelectorImpl@2e5905a
+2017-03-05 02:15:34,027 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.EPollSelectorImpl@41420566
+2017-03-05 02:15:34,028 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.EPollSelectorImpl@559e77ce
+2017-03-05 02:15:34,047 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.EPollSelectorImpl@68d3df2d
+2017-03-05 02:15:34,047 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.EPollSelectorImpl@66c73dfc
+2017-03-05 02:15:48,857 DEBUG(ProcessHandlers.java:43): Loaded Headers
+2017-03-05 02:15:48,921 DEBUG(ProcessHandlers.java:105): The2 files requested are uploaded
+2017-03-05 02:15:53,799 DEBUG(ProcessHandlers.java:128): Response{protocol=http/1.1, code=200, message=OK, url=https://api.sandbox.signaturit.com/v3/signatures.json}
+2017-03-05 02:15:56,859 DEBUG(ProcessHandlers.java:128): Response{protocol=http/1.1, code=200, message=OK, url=https://api.sandbox.signaturit.com/v3/signatures.json}
+2017-03-05 02:16:27,973 DEBUG(ProcessHandlers.java:43): Loaded Headers
+2017-03-05 02:16:27,973 DEBUG(ProcessHandlers.java:105): The2 files requested are uploaded
+2017-03-05 02:16:30,173 DEBUG(ProcessHandlers.java:128): Response{protocol=http/1.1, code=200, message=OK, url=https://api.sandbox.signaturit.com/v3/signatures.json}
+2017-03-05 02:16:33,926 DEBUG(ProcessHandlers.java:128): Response{protocol=http/1.1, code=200, message=OK, url=https://api.sandbox.signaturit.com/v3/signatures.json}

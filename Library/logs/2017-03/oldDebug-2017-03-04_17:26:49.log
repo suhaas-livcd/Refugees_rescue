@@ -1,0 +1,21 @@
+2017-03-04 17:13:40,024 DEBUG(InitialiseUndertowServer.java:25): Change log level setting at : /home/suhaas/Desktop/NICEWORKS/ProjectSignature/log4j2.xml
+2017-03-04 17:13:40,050 DEBUG(ResponseCodeHandler.java:32): Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2017-03-04 17:13:40,116 INFO (Xnio.java:99): XNIO version 3.3.6.Final
+2017-03-04 17:13:40,132 INFO (NioXnio.java:55): XNIO NIO Implementation Version 3.3.6.Final
+2017-03-04 17:13:40,192 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.EPollSelectorImpl@67a01310
+2017-03-04 17:13:40,194 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.EPollSelectorImpl@26205495
+2017-03-04 17:13:40,195 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.EPollSelectorImpl@3583e550
+2017-03-04 17:13:40,196 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.EPollSelectorImpl@5bf7dd81
+2017-03-04 17:13:40,219 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.EPollSelectorImpl@6657fc9a
+2017-03-04 17:14:56,438 DEBUG(ProcessHandlers.java:123): "STATUS" Handler Invoked
+2017-03-04 17:26:13,648 DEBUG(ProcessHandlers.java:123): "STATUS" Handler Invoked
+2017-03-04 17:26:15,913 DEBUG(ProcessHandlers.java:123): "STATUS" Handler Invoked
+2017-03-04 17:26:16,243 DEBUG(ProcessHandlers.java:123): "STATUS" Handler Invoked
+2017-03-04 17:26:16,416 DEBUG(ProcessHandlers.java:123): "STATUS" Handler Invoked
+2017-03-04 17:26:24,780 DEBUG(ProcessHandlers.java:123): "STATUS" Handler Invoked
+2017-03-04 17:26:24,914 DEBUG(ProcessHandlers.java:123): "STATUS" Handler Invoked
+2017-03-04 17:26:25,032 DEBUG(ProcessHandlers.java:123): "STATUS" Handler Invoked
+2017-03-04 17:26:25,159 DEBUG(ProcessHandlers.java:123): "STATUS" Handler Invoked
+2017-03-04 17:26:28,215 DEBUG(ProcessHandlers.java:123): "STATUS" Handler Invoked
+2017-03-04 17:26:28,381 DEBUG(ProcessHandlers.java:123): "STATUS" Handler Invoked
+2017-03-04 17:26:28,577 DEBUG(ProcessHandlers.java:123): "STATUS" Handler Invoked

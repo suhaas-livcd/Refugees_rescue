@@ -1,0 +1,15 @@
+2017-03-05 01:44:08,853 DEBUG(InitialiseUndertowServer.java:24): Change log level setting at : /home/suhaas/Desktop/NICEWORKS/ProjectSignature/log4j2.xml
+2017-03-05 01:44:08,894 DEBUG(ResponseCodeHandler.java:32): Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2017-03-05 01:44:08,975 INFO (Xnio.java:99): XNIO version 3.3.6.Final
+2017-03-05 01:44:09,009 INFO (NioXnio.java:55): XNIO NIO Implementation Version 3.3.6.Final
+2017-03-05 01:44:09,171 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.EPollSelectorImpl@273afd10
+2017-03-05 01:44:09,172 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.EPollSelectorImpl@5caf2a09
+2017-03-05 01:44:09,174 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.EPollSelectorImpl@2e5905a
+2017-03-05 01:44:09,175 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.EPollSelectorImpl@66c73dfc
+2017-03-05 01:44:09,182 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.EPollSelectorImpl@41420566
+2017-03-05 01:44:20,641 DEBUG(ProcessHandlers.java:91): "STATUS" Handler Invoked
+2017-03-05 01:45:18,571 DEBUG(ProcessHandlers.java:102): The files requested are uploaded 
+2017-03-05 01:45:19,789 DEBUG(ProcessHandlers.java:123): java.io.FileNotFoundException: /home/suhaas/Desktop/NICEWORKS/ProjectSignature/Downloads.pdf (No such file or directory)
+2017-03-05 01:45:19,790 DEBUG(ProcessHandlers.java:125): null
+2017-03-05 01:45:20,382 DEBUG(ProcessHandlers.java:123): java.io.FileNotFoundException: /home/suhaas/Desktop/NICEWORKS/ProjectSignature/bitcoin.pdf (No such file or directory)
+2017-03-05 01:45:20,383 DEBUG(ProcessHandlers.java:125): null

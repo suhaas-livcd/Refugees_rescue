@@ -1,0 +1,11 @@
+2017-03-04 17:39:58,999 DEBUG(InitialiseUndertowServer.java:25): Change log level setting at : /home/suhaas/Desktop/NICEWORKS/ProjectSignature/log4j2.xml
+2017-03-04 17:39:59,029 DEBUG(ResponseCodeHandler.java:32): Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2017-03-04 17:39:59,077 INFO (Xnio.java:99): XNIO version 3.3.6.Final
+2017-03-04 17:39:59,100 INFO (NioXnio.java:55): XNIO NIO Implementation Version 3.3.6.Final
+2017-03-04 17:39:59,139 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.EPollSelectorImpl@538f8496
+2017-03-04 17:39:59,140 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.EPollSelectorImpl@18112b39
+2017-03-04 17:39:59,141 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.EPollSelectorImpl@26205495
+2017-03-04 17:39:59,141 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.EPollSelectorImpl@5fc8ad
+2017-03-04 17:39:59,154 DEBUG(WorkerThread.java:431): Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.EPollSelectorImpl@3583e550
+2017-03-04 17:40:05,763 DEBUG(ProcessHandlers.java:42): Loaded Headers
+2017-03-04 17:40:05,863 DEBUG(ProcessHandlers.java:124): "STATUS" Handler Invoked

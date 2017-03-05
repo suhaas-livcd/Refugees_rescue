@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Appenders>
+        <RollingRandomAccessFile name="fileDebug" fileName="logs/currentDebug.log" immediateFlush="false" filePattern="logs/$${date:yyyy-MM}/oldDebug-%d{yyyy-MM-dd_HH:mm:ss}.log">
+            <PatternLayout pattern="%d %-5p(%F:%L): %m%n"/>
+            <Policies>
+                <OnStartupTriggeringPolicy />
+                <SizeBasedTriggeringPolicy size="250MB"/>
+            </Policies>
+        </RollingRandomAccessFile>
+        <RollingRandomAccessFile name="fileInfo" fileName="logs/currentInfo.log" immediateFlush="false" filePattern="logs/$${date:yyyy-MM}/oldInfo-%d{yyyy-MM-dd_HH:mm:ss}.log">
+            <PatternLayout pattern="%d %-5p(%F:%L): %m%n"/>
+            <Policies>
+                <OnStartupTriggeringPolicy />
+                <SizeBasedTriggeringPolicy size="250MB"/>
+            </Policies>
+        </RollingRandomAccessFile>
+        <RollingRandomAccessFile name="fileWarn" fileName="logs/currentWarn.log" immediateFlush="false" filePattern="logs/$${date:yyyy-MM}/oldWarn-%d{yyyy-MM-dd_HH:mm:ss}.log">
+            <PatternLayout pattern="%d %-5p(%F:%L): %m%n"/>
+            <Policies>
+                <OnStartupTriggeringPolicy />
+                <SizeBasedTriggeringPolicy size="250MB"/>
+            </Policies>
+        </RollingRandomAccessFile>
+        <RollingRandomAccessFile name="fileError" fileName="logs/currentError.log" immediateFlush="false" filePattern="logs/$${date:yyyy-MM}/oldError-%d{yyyy-MM-dd_HH:mm:ss}.log">
+            <PatternLayout pattern="%d %-5p(%F:%L): %m%n"/>
+            <Policies>
+                <OnStartupTriggeringPolicy />
+                <SizeBasedTriggeringPolicy size="250MB"/>
+            </Policies>
+        </RollingRandomAccessFile>
+        <RollingRandomAccessFile name="fileTrace" fileName="logs/currentTrace.log" immediateFlush="true" filePattern="logs/$${date:yyyy-MM}/oldDebug-%d{yyyy-MM-dd_HH:mm:ss}.log">
+            <PatternLayout pattern="%d %-5p(%F:%L): %m%n"/>
+            <Policies>
+                <OnStartupTriggeringPolicy />
+                <SizeBasedTriggeringPolicy size="250MB"/>
+            </Policies>
+        </RollingRandomAccessFile>
+        <Console name="STDOUT" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d %-5p(%F:%L): %m%n"/>
+        </Console>
+    </Appenders>
+    <Loggers>
+        <Logger name="org.apache.log4j.xml" level="debug">
+            <AppenderRef ref="fileDebug"/>
+        </Logger>
+        <Logger name="org.apache.log4j.xml" level="info">
+            <AppenderRef ref="fileInfo"/>
+        </Logger>
+        <Logger name="org.apache.log4j.xml" level="warn">
+            <AppenderRef ref="fileWarn"/>
+        </Logger>
+        <Logger name="org.apache.log4j.xml" level="error">
+            <AppenderRef ref="fileError"/>
+        </Logger>
+        <Logger name="org.apache.log4j.xml" level="trace">
+            <AppenderRef ref="fileTrace"/>
+        </Logger>
+        <Root level="debug">
+            <AppenderRef ref="fileError" level="error"/>
+            <AppenderRef ref="fileWarn" level="warn"/>
+            <AppenderRef ref="fileInfo" level="info"/>
+            <AppenderRef ref="fileDebug" level="debug"/>
+            <AppenderRef ref="STDOUT" level="trace"/>
+        </Root>
+    </Loggers>
+</Configuration>

@@ -1,0 +1,2 @@
+2017-03-05 01:19:29,741 DEBUG(InitialiseUndertowServer.java:24): Change log level setting at : /home/suhaas/Desktop/NICEWORKS/ProjectSignature/log4j2.xml
+2017-03-05 01:19:29,831 DEBUG(ResponseCodeHandler.java:32): Logging Provider: org.jboss.logging.Log4j2LoggerProvider
