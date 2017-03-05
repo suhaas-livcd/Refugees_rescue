@@ -8,8 +8,9 @@
   - someone to feel as their own
   
 ## Interface has two major componenets
-  -`Volunteers Dashboard`
-  -`Refugees Dashboard`
+  - `Volunteers Dashboard`
+  - `Refugees Dashboard`
+  
 ## Problems that we tried to address
   - Sharing things like Food,Clothes and some other products.
   - ![Share_items](https://raw.githubusercontent.com/suhaas-livcd/Refugees_rescue/master/ProjectScreenshots/Share.png)
@@ -17,10 +18,13 @@
   - ![teach_items](https://raw.githubusercontent.com/suhaas-livcd/Refugees_rescue/master/ProjectScreenshots/Teach.png)
   - To spend time by making appointments and adrress them
   - To know more about their whereabouts and analysis of them.
+  
 ## DashBoard at glance
-  ### Refugee's View
+
+### Refugee's View
   ![refugee_dash](https://raw.githubusercontent.com/suhaas-livcd/Refugees_rescue/master/ProjectScreenshots/Refugees_dash.png)
-  ### Refugee's View
+
+### Refugee's View
   ![volunteer_dash](https://raw.githubusercontent.com/suhaas-livcd/Refugees_rescue/master/ProjectScreenshots/volunteer_dash.png)
 
   
