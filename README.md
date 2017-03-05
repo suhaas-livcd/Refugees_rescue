@@ -12,8 +12,9 @@
   -`Refugees Dashboard`
 ## Problems that we tried to address
   - Sharing things like Food,Clothes and some other products.
+  * ![Share_items](https://raw.githubusercontent.com/suhaas-livcd/Refugees_rescue/master/ProjectScreenshots/Share.png)
   - To teach about Culture, Language and provide education or certification.
+  * ![teach_items](https://raw.githubusercontent.com/suhaas-livcd/Refugees_rescue/master/ProjectScreenshots/Teach.png)
   - To spend time by making appointments and adrress them
   - To know more about their whereabouts and analysis of them.
-  * ![Share_items](https://raw.githubusercontent.com/suhaas-livcd/Refugees_rescue/master/ProjectScreenshots/Share.png)
-  * ![teach_items](https://raw.githubusercontent.com/suhaas-livcd/Refugees_rescue/master/ProjectScreenshots/Teach.png)
+  
