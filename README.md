@@ -17,4 +17,10 @@
   - ![teach_items](https://raw.githubusercontent.com/suhaas-livcd/Refugees_rescue/master/ProjectScreenshots/Teach.png)
   - To spend time by making appointments and adrress them
   - To know more about their whereabouts and analysis of them.
+## DashBoard at glance
+  ### Refugee's View
+  ![refugee_dash](https://raw.githubusercontent.com/suhaas-livcd/Refugees_rescue/master/ProjectScreenshots/Refugees_dash.png)
+  ### Refugee's View
+  ![volunteer_dash](https://raw.githubusercontent.com/suhaas-livcd/Refugees_rescue/master/ProjectScreenshots/volunteer_dash.png)
+
   
