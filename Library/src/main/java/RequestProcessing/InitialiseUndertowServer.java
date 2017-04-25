@@ -14,7 +14,6 @@ import java.io.File;
 
 
 /**
- * Project CreateTablesForSys In com.nicepeopleatwork.createtablesforsystem.RequestProcessing.
  * Created by root on 1/30/17 11:01 AM.
  */
 public class InitialiseUndertowServer {
