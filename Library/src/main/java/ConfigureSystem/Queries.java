@@ -6,7 +6,6 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 /**
- * Project CreateTablesForSys In com.nicepeopleatwork.createtablesforsystem.ConfigureSystem.
  * Created by root on 1/18/17 3:30 PM.
  */
 
